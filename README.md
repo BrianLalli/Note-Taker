@@ -17,6 +17,8 @@ Individuals or small business owners can use this application to stay organized 
 - [Contributing](#Contributing)
 - [Questions](#Questions)
 
+<br>
+
 ## How It Works
 This application uses an Express.js back end and will save and retrieve note data from a JSON file.
 
