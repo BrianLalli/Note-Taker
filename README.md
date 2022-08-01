@@ -2,16 +2,34 @@
 
 
 ## Project Description:
-The task for this challenge was to create " " using the [Inquirer package](https://www.npmjs.com/package/inquirer).
+This application called Note Taker can be used to write and save notes.
+
+Individuals or small business owners can use this application to stay organized and productive.
 
 #### You can access this project via [GitHub](https://github.com/BrianLalli/Note-Taker)
 
 <br>
 
+## Table of Contents
+- [Installation](#Installation)  
+- [Usage](#Usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Questions](#Questions)
 
 ## How It Works
-First, user runs node index.js in the Integrated Terminal.
-* [Demo](https://drive.google.com/file/d/1Swo9cV7wSfbTsDe7GlR2i436-waV3pGM/view?usp=sharing)
+This application uses an Express.js back end and will save and retrieve note data from a JSON file.
+
+The user is presented with a landing page and must click the "Get Started" button.
+![Get Started](./public/assets/images/Get%20Started.png)
+
+Then, they can begin typing in note titles and text.
+![Type Note](./public/assets/images/Type%20Note.png)
+
+Lastly, they can click the "save" button to save that data for future reference. 
+![Save Note](./public/assets/images/Save%20Note.png)
+
+* [Demo]()
 
 
 <br>
@@ -19,14 +37,6 @@ First, user runs node index.js in the Integrated Terminal.
 
 ## Credits:
 [Sara Baqla](https://github.com/missatrox44)
-
-
-<br>
-
-## Resources
-* [Screencastify](https://www.screencastify.com)
-* [Video Submission](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
-* [CSS Styling by Bootstrap](https://startbootstrap.com/)
 
 <br>
 
