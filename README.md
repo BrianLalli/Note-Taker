@@ -31,8 +31,6 @@ Then, they can begin typing in note titles and text.
 Lastly, they can click the "save" button to save that data for future reference. 
 ![Save Note](./public/assets/images/Save%20Note.png)
 
-* [Demo]()
-
 
 <br>
 
