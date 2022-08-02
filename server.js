@@ -4,7 +4,7 @@ const path = require("path");
 const fs = require("fs");
 const data = require("./db/db.json");
 // applying middleware
-app.use(express.static("./public"));
+app.use(express.static("public"));
 app.use(express.urlencoded({extended:false}));
 app.use(express.json());
 
