@@ -3,6 +3,7 @@ const app = express();
 const path = require("path");
 const fs = require("fs");
 const data = require("./db/db.json");
+const PORT = process.env.PORT || 3003;
 // applying middleware
 app.use(express.static("public"));
 app.use(express.urlencoded({extended:false}));
@@ -41,7 +42,7 @@ app.post("/api/notes", (req, res) => {
 })
 
 
-app.listen(3003, () => {
+app.listen(PORT, () => {
     console.log("server is running")
 })
 
