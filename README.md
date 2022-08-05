@@ -7,6 +7,7 @@ This application called Note Taker can be used to write and save notes.
 Individuals or small business owners can use this application to stay organized and productive.
 
 #### You can access this project via [GitHub](https://github.com/BrianLalli/Note-Taker)
+#### You can access this project via [Heroku](https://note-taker-bl11.herokuapp.com/notes)
 
 <br>
 
